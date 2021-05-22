@@ -26,11 +26,8 @@ Copyright = "© McKade Umbenhower 2021"
   keywords = "homepage, blog"
   images = [""]
 
-  [params.wrapper]
-enable = true
-title = "About"
-italic = "McKade Umbenhower"
-paragraph = "This site serves as a dumping ground for my interests, projects, thoughts, tools, techniques, etc. Most of my work revolves around reverse engineering, vulnerability research, IoT development, and systems security."
+aboutTitle = "About"
+aboutText = "This site serves as a dumping ground for my interests, projects, thoughts, tools, techniques, etc. Most of my work revolves around reverse engineering, vulnerability research, IoT development, and systems security."
 
 [taxonomies]
     category = "blog"
