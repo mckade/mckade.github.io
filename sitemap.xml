@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.mckade.io/blog/</loc>
+    <loc>/blog/</loc>
   </url>
   
   <url>
-    <loc>https://github.mckade.io/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://github.mckade.io/series/</loc>
+    <loc>/series/</loc>
   </url>
   
   <url>
-    <loc>https://github.mckade.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
