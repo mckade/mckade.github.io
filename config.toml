@@ -1,6 +1,6 @@
 publishDir   = "docs/"
 baseurl      = "https://mckade.github.io"
-title        = "McKade's Site"
+title        = "McKade's Homepage"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
@@ -13,7 +13,7 @@ Copyright = "© McKade Umbenhower 2021"
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "A collection of McKade's thoughts and things"
+  homeSubtitle = "A collection of McKade's thoughts and things. This site serves as a dumping ground for my interests, projects, thoughts, tools, techniques, etc. Most of my work revolves around reverse engineering, vulnerability research, IoT development, and systems security."
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -27,7 +27,7 @@ Copyright = "© McKade Umbenhower 2021"
   images = [""]
 
 aboutTitle = "About"
-aboutText = "This site serves as a dumping ground for my interests, projects, thoughts, tools, techniques, etc. Most of my work revolves around reverse engineering, vulnerability research, IoT development, and systems security."
+aboutText = 
 
 [taxonomies]
     category = "blog"
@@ -36,7 +36,7 @@ aboutText = "This site serves as a dumping ground for my interests, projects, th
 
 [languages]
   [languages.en]
-    title = "McKade's Site"
+    title = "McKade Home"
     subtitle = ""
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
