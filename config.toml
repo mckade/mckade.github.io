@@ -1,9 +1,9 @@
-publishDir   = "docs"
-baseurl      = "docs/"
+baseurl      = "https://mckade.github.io"
 title        = "McKade's Site"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
+Copyright = "© McKade Umbenhower 2021"
 
 [params]
   dateform        = "Jan 2, 2006"
