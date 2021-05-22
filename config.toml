@@ -1,3 +1,4 @@
+publishDir   = "docs/"
 baseurl      = "https://mckade.github.io"
 title        = "McKade's Site"
 languageCode = "en-us"
