@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mckade.github.io/blog/</loc>
+    <loc>https://mckade.github.io/</loc>
+    <lastmod>2021-05-22T15:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mckade.github.io/</loc>
+    <loc>https://mckade.github.io/things/term/</loc>
+    <lastmod>2021-05-22T15:55:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mckade.github.io/things/</loc>
+    <lastmod>2021-05-22T15:55:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mckade.github.io/blog/</loc>
   </url>
   
   <url>
