@@ -26,9 +26,6 @@ Copyright = "© McKade Umbenhower 2021"
   keywords = "homepage, blog"
   images = [""]
 
-aboutTitle = "About"
-aboutText = 
-
 [taxonomies]
     category = "blog"
     tag      = "tags"
