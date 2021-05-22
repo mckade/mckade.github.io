@@ -1,5 +1,5 @@
 publishDir   = "docs"
-baseurl      = "localhost"
+baseurl      = "https://github.mckade.io"
 title        = "McKade's Site"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
