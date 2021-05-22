@@ -1,3 +1,4 @@
+publishDir   = "docs"
 baseurl      = "localhost"
 title        = "McKade's Site"
 languageCode = "en-us"
