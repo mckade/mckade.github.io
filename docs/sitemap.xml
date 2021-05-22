@@ -3,19 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mckade.github.io/blog/</loc>
-  </url>
-  
-  <url>
     <loc>https://mckade.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mckade.github.io/series/</loc>
+    <lastmod>2021-05-22T12:31:54-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://mckade.github.io/tags/</loc>
+    <lastmod>2021-05-22T12:31:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mckade.github.io/things/test-post/</loc>
+    <lastmod>2021-05-22T12:31:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mckade.github.io/thoughts/test-post/</loc>
+    <lastmod>2021-05-22T12:31:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mckade.github.io/things/</loc>
+    <lastmod>2021-05-22T12:31:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mckade.github.io/thoughts/</loc>
+    <lastmod>2021-05-22T12:31:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mckade.github.io/tags/untagged/</loc>
+    <lastmod>2021-05-22T12:31:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mckade.github.io/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mckade.github.io/series/</loc>
   </url>
   
 </urlset>
