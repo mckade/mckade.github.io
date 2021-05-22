@@ -1,5 +1,5 @@
-publishDir   = "docs"
-baseurl      = "https://github.mckade.io"
+publishDir   = ""
+baseurl      = "https://github.mckade.io/"
 title        = "McKade's Site"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
