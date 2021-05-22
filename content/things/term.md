@@ -15,7 +15,7 @@ $ which byobu | sudo tee -a /etc/shells
 ```
 
 ## Configuration
-##t Guake config:
+### Guake config:
 ```
 [general]
 abbreviate-tab-names=false
