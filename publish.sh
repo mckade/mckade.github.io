@@ -13,7 +13,7 @@ MSG=$1
 mv docs/CNAME .
 rm -rf docs
 
-hugo
+hugo -D
 if [ $? -ne 0 ]
 then
 	echo "Hugo failed to build. Cleaning up."
