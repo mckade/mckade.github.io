@@ -60,5 +60,9 @@ Copyright = "© McKade Umbenhower 2021"
     url        = "/things"
 
   [[params.social]]
+    name = "email"
+    url = "mailto:mckade@pm.me"
+
+  [[params.social]]
     name = "github"
     url = "https://github.com/mckade"
