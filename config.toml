@@ -45,6 +45,11 @@ Copyright = "© McKade Umbenhower 2021"
 
   # And you can even create generic menu
   [[menu.main]]
+    identifier = "contact"
+    name       = "Contact"
+    url        = "/contact"
+
+  [[menu.main]]
     identifier = "thoughts"
     name       = "Thoughts"
     url        = "/thoughts"
