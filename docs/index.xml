@@ -21,14 +21,5 @@
       <description>Environment Lately I&amp;rsquo;ve been rolling with Guake and Byobu. I have not tried most terminals, so I will not say that my environment is the best (or even good). It does, however, work well for me right now. I like the clean look and easy terminal multiplexing. I am putting this here mostly for my own reference. If you wish to be a little more like McKade, for some reason, feel free to try my terminal environment out.</description>
     </item>
     
-    <item>
-      <title>Test Post</title>
-      <link>https://mckade.github.io/thoughts/test-post/</link>
-      <pubDate>Sat, 22 May 2021 12:31:54 -0400</pubDate>
-      
-      <guid>https://mckade.github.io/thoughts/test-post/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
