@@ -4,24 +4,23 @@
     
     <head style="margin-left:0em">
         <ul style="padding-left:0em">
-            <li style="display:inline"><a href="/posts.html">POSTS</a></li>
-            <li style="display:inline"><a href="/contact.html">CONTACT</a></li>
-            <li style="display:inline"><a href="/index.html">ABOUT</a></li>
+            <li style="font-size: 1.6em; display:inline"><a href="/posts.html">POSTS</a> - </li>
+            <li style="font-size: 1.6em; display:inline"><a href="/resources.html">RESOURCES</a> - </li>
+            <li style="font-size: 1.6em; display:inline"><a href="/contact.html">CONTACT</a> - </li>
+            <li style="font-size: 1.6em; display:inline"><a href="/index.html">ABOUT</a></li>
         </ul>
     </head>
     <body>
+        <!--- START CONTENT --->
         <h1>
             On this website
         </h1>
+        <h3>Updated Jan 21, 2022</h3>
         <p>
             This website is inspired by
             <a href="http://motherfuckingwebsite.com/">motherfuckingwebsite.com</a>.
             See the source <a href="https://github.com/mckade/mckade.github.io">here</a>!
-        </p>
-
-        <br>
-
-        <p>
+            <br><br>
             Prior to hearing this good word, my posts were
             <a href="https://gohugo.io/">"powered by Hugo"</a>.
             Some framework for creating static websites. As someone who has not
@@ -41,17 +40,33 @@
             in HTML. No frameworks, no JavaScript, just content. What does this entail?
             <br>
             Honestly, just a few hours of puttering around and trying things out. A
-            single style sheet lives in <code><a href="https://github.com/mckade/mckade.github.io/blob/main/style.css">/style.css</a></code> to create some very
-            basic formatting. A list of the form
+            single style sheet lives in 
+            <code><a href="https://github.com/mckade/mckade.github.io/blob/main/style.css">/style.css</a></code> 
+            to create some very
+            basic formatting. A list of (approximately) the form
 <pre><code>&ltul style="padding-left:0em"&gt
     &ltli style="display:inline"&gt&lta href="/posts.html"&gtPOSTS&lt/a&gt&lt/li&gt
     &ltli style="display:inline"&gt&lta href="/contact.html"&gtCONTACT&lt/a&gt&lt/li&gt
     &ltli style="display:inline"&gt&lta href="/index.html"&gtABOUT&lt/a&gt&lt/li&gt
 &lt/ul&gt</code></pre>
-            lives at the top of each document for basic navigation. Otherwise, the
+            lives at the top of each document for basic navigation. To see the most
+            updated version, see 
+            <code><a href="https://github.com/mckade/mckade.github.io/blob/main/template.html">/template.html</a></code>
+            (or view the source for this page). Otherwise, the
             content is just drafted in HTML in a text editor. I had hesitation about
             just writing HTML files, but, after a little practice, it is trivial to
             get the hang of.
+            <br><br>
+
+            It is also worth noting that I recognize the benefit of frameworks.
+            Being able to easily update many pages at once is valuable. I really just
+            don't need as much as they offer. To combat this, a 
+            <code><a href="https://github.com/mckade/mckade.github.io/blob/main/webh.py">python script</a></code>
+            has proven plenty sufficient. So far, I use it to update headers/footers
+            on pages in bulk based on a template. It wwould probably be useful to
+            add to it the ability to create and reference new posts, but that is a
+            task for another time.
         </p>
+        <!--- END CONTENT --->
     </body>
 </html>
